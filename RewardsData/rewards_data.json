@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "partnerName": "Hudson's Bay",
+            "cashback": "15%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F602eb2a89b5f9c61cd4a61a2%2F602eb2a89b5f9c61cd4a61a3.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "NAPA",
+            "cashback": "11%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F6109b4f26a0af60c1fdb3ab2%2F6109b4f26a0af60c1fdb3ab3.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "Earls",
+            "cashback": "15%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f5bb4a791a757c923888606%2F5f5bb4a791a757c923888607.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "Crave TV",
+            "cashback": "2%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f653c7438d3a368f18680f2%2F5f653c7438d3a368f18680f3.jpg&w=48&q=75"
+        },
+        {
+            "partnerName": "Uber",
+            "cashback": "2%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f63e9a37459532fb6ea4391%2F5f63e9a37459532fb6ea4392.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "Shell",
+            "cashback": "2%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f600b3c7b0815f80d7ef780%2F5f600b3c7b0815f80d7ef781.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "Pet Value",
+            "cashback": "5%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f75158ccd2f4a63255a938d%2F5f75158ccd2f4a63255a938e.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "Marble Slab Creamery",
+            "cashback": "11%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F60ca5f845866106c37520ab4%2F60ca5f845866106c37520ab5.jpg&w=48&q=75"
+        },
+        {
+            "partnerName": "Marcello's Market and Deli",
+            "cashback": "12%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5ec83bf7a29b0bfbe20d5039%2F5ec83bf7a29b0bfbe20d503a.jpg&w=48&q=75"
+        },
+        {
+            "partnerName": "Bird",
+            "cashback": "3%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f481b5c61998ee3da4d1283%2F5f481b5c61998ee3da4d1284.jpg&w=64&q=75"
+        }
+    ]
+}

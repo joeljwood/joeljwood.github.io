@@ -49,6 +49,11 @@
             "partnerName": "Bird",
             "cashback": "3%",
             "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f481b5c61998ee3da4d1283%2F5f481b5c61998ee3da4d1284.jpg&w=64&q=75"
+        },
+        {
+            "partnerName": "Amaze: Calgary Escape Game",
+            "cashback": "3%",
+            "imageSrc": "https://member.neofinancial.com/_next/image?url=https%3A%2F%2Fstatic.production.neofinancial.com%2Fbrand_logos%2F5f481b5c61998ee3da4d1283%2F5f481b5c61998ee3da4d1284.jpg&w=64&q=75"
         }
     ]
 }
